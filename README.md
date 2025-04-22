@@ -55,4 +55,4 @@ A sample kickoff and governance framework from an HRIS implementation project. I
 
 ---
 
-If you'd like to connect or collaborate, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kareywong) or contact me at wkarey89@gmail.com.
+If you'd like to connect or collaborate, feel free to contact me at wkarey89@gmail.com.
