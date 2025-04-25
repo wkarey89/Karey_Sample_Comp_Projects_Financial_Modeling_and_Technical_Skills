@@ -1,58 +1,41 @@
 # 🧾 Compensation Program Portfolio – Karey Wong
 
-Welcome to my compensation portfolio, which showcases end-to-end projects I've designed and implemented across global organizations ranging from startups to enterprise and M&A environments. This portfolio includes deliverables focused on compensation philosophy, incentive design, pay equity, benchmarking, executive comp, and program governance.
+Welcome to my GitHub portfolio, showcasing detailed, practical tools and templates designed to streamline and enhance your company's compensation strategy, financial modeling, and pay governance processes. Each file represents my strong capabilities in analytical rigor, technical expertise, strategic communication, and robust governance frameworks. These resources can be easily adapted to support HR, Compensation teams, and business leaders in making informed, data-driven decisions.
 
-> 🔐 **Disclaimer:** No confidential, proprietary, or personally identifiable information is included. All materials are illustrative and intended to demonstrate technical skills, strategic thinking, and implementation experience.
+💰 Incentive Design & Compensation Planning
 
----
+Comp Program Communication – STI Mechanics & Governance (PDF): A clear, structured communication guide outlining Short-Term Incentive (STI) mechanics, funding logic, achievement interpolation, and distribution governance.
 
-## 💰 Incentive Design & Compensation Planning
+Karey_Wong_Sample_Short_Term_Incentive_Models.xlsx: Dynamic Excel models demonstrating goal-weighted STI scenarios, performance calibration, and accurate incentive payout forecasting.
 
-**📄 Comp Program Communication – STI Mechanics & Governance (PDF)**  
-A formal communication guide that walks managers and employees through how a Short-Term Incentive (STI) plan is funded, calculated, and paid. Includes pro-rating logic, funding thresholds, achievement interpolation, role-based weightings, and bonus distribution governance.
+Karey_Wong_Sample_LTI_Model_(DCF_&_Gordon Growth_EV_Analysis).xlsx: Advanced Long-Term Incentive (LTI) valuation models using Discounted Cash Flow (DCF) and Gordon Growth methods, including CEO equity pay planning and enterprise value analysis.
 
-**📊 Karey_Wong_Sample_Short_Term_Incentive_Models.xlsx**  
-Excel-based models showing STI plan logic with variable goal weighting, performance calibration, and scenario-based payout modeling tied to KPIs and budget forecasts.
+Karey_Wong_Sample_CEO_Regression_Pay_Analysis.xlsm: Macro-driven regression analysis tool designed to benchmark and justify CEO compensation relative to peer companies using multivariate statistical methods.
 
-**📈 Karey_Wong_Sample_LTI_Model_(DCF_&_Gordon Growth_EV_Analysis).xlsx**  
-Illustrates LTI award valuation using Discounted Cash Flow (DCF) and Gordon Growth methods. Includes equity award modeling for CEO pay planning and enterprise value projections.
+Workday – Bonus Proration & Accrual Automation (PPT): Custom-built Workday configurations automating bonus proration calculations and accrual reporting for hires, salary adjustments, and leaves, significantly enhancing operational efficiency.
 
-**📉 Karey_Wong_Sample_CEO_Regression_Pay_Analysis.xlsm**  
-Macro-enabled regression tool that compares CEO pay to peer group financial metrics. Supports defensible executive comp recommendations using multivariable analysis.
+📊 Market Benchmarking & Equity Analytics
 
-**📄 Salary Increase Proposal Template (PDF)**  
-A structured template to support off-cycle or merit increase recommendations. Includes internal equity, compa-ratio, peer comp analysis, and finance justification summaries.
+Market Analysis Overview – For HRBPs (PDF): Strategic guide for HR Business Partners detailing the importance of market studies, supply and demand dynamics, and guidance on selecting appropriate benchmarking surveys.
 
----
+Executive Total Rewards Benchmarking (PDF): Detailed comparative analysis of executive total compensation (base salary, bonuses, equity) to maintain competitive and equitable executive pay practices.
 
-## 📊 Market Benchmarking & Equity Analytics
+Survey Standard Deviation and Delta Analysis (PDF): Analytical tools to identify outliers in market survey data, employing delta variance analysis and Z-scores to ensure benchmark accuracy and data integrity.
 
-**📄 Executive Total Rewards Benchmarking -kw.pdf**  
-Side-by-side TDC benchmarking analysis for executives, including base, STI, equity (RSUs, PSAs), and allowances. Shows multipliers of base and peer positioning.
+Salary Increase Proposal Template (PDF): Structured proposals for merit or off-cycle increases, with comprehensive analysis of internal equity, compa-ratio alignment, and financial justification.
 
-**📊 Survey Standard Deviation and Delta Analysis -kw.pdf**  
-Excel analytics tool to identify outliers in market survey data using delta analysis, Z-scores, and weighted average formulas. Ensures benchmark accuracy and integrity.
+Karey_Wong_Sample_Pay_Equity_Regression_Analysis.xlsx: Comprehensive regression-based pay equity analysis model identifying statistically significant disparities in pay across gender, race, tenure, and job levels.
 
-**📈 Karey_Wong_Sample_Pay_Equity_Regression_Analysis.xlsx**  
-Pay equity regression analysis model using standard deviation and p-values. Helps identify statistically significant disparities across gender, race, tenure, and level.
+🏗️ Job Architecture & Evaluation
 
----
+Job & Pay Architecture Overview (PDF): Detailed insights into the development and benefits of effective job and pay architectures, addressing pain points and delivering clear frameworks for career progression and compensation.
 
-## 🏗️ Job Architecture & Evaluation
+Job Evaluation Template (PDF): Robust evaluation template for accurately defining job responsibilities, qualifications, and organizational structure, facilitating precise job slotting and benchmarking.
 
-**📄 Case Study – Job & Pay Architecture (PDF)**  
-End-to-end job architecture redesign case study. Covers job leveling, title taxonomy, salary bands, and tailored incentive plan structures across different job families.
+Technical Skills- WD Backend JA & Comp Configurations- kw: JA and Comp Grade Configurations on the backend in Worday guide
 
-**📋 Job Evaluation Template -kw.pdf**  
-Custom template to capture job scope, responsibilities, qualifications, and reporting lines. Used for slotting roles, benchmarking titles, and assigning comp levels.
+🛠️ Project & System Implementation
 
----
+Project Governance and Risk Management (PDF): Strategic framework for managing HRIS implementations, featuring detailed stakeholder engagement matrices, risk tracking, change management practices, and clear program milestones.
 
-## 🛠️ Project & System Implementation
-
-**📄 Project Governance and Risk Management (PDF)**  
-A sample kickoff and governance framework from an HRIS implementation project. Includes stakeholder matrix, risk tracking, change management, and program milestones.
-
----
-
-If you'd like to connect or collaborate, feel free to contact me at wkarey89@gmail.com.
+This portfolio is thoughtfully designed to help you efficiently address common challenges in compensation planning, market benchmarking, pay equity, job architecture, and system implementations, ultimately empowering your team to deliver strategic value consistently.
