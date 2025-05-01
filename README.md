@@ -1,81 +1,77 @@
 # 🧾 Compensation Program Portfolio – Karey Wong
+Welcome to my GitHub portfolio, showcasing practical tools and templates to support strategic compensation planning, pay governance, market benchmarking, and equity design. Each resource demonstrates my capabilities in financial modeling, incentive plan design, data analytics, and scalable HR systems. This collection is built for HR, Compensation, and Total Rewards professionals looking to implement best-in-class, data-driven compensation strategies.
 
+# 📌 Portfolio Projects
+🧭 1. Global Job & Pay Architecture Framework – kw.pdf
+Portfolio Description:
+A strategic overview of job families, global leveling, compensation grades, and geographic differentials. This file showcases Karey’s ability to align compensation programs with talent development, career mobility, and internal equity—while building scalable structures that support future growth.
 
-Welcome to my GitHub portfolio, showcasing practical tools and templates to support strategic compensation planning, pay governance, market benchmarking, and equity design. Each resource demonstrates my capabilities in financial modeling, incentive plan design, data analytics, and scalable HR systems.
+🏗️ 2. Workday – Job Architecture & Comp Grade Backend Configurations – kw
+Portfolio Description:
+A step-by-step Workday backend setup guide for configuring job families, job profiles, compensation eligibility rules, grades, and grade profiles. Demonstrates Karey’s technical fluency in system-driven compensation infrastructure and backend accuracy.
 
-This collection is built for HR, Compensation, and Total Rewards professionals looking to implement best-in-class, data-driven compensation strategies.
+📝 3. Job Evaluation Template – kw.pdf
+Portfolio Description:
+A structured job evaluation worksheet used to align internal job titles, scope, and responsibilities with market benchmarks. Demonstrates Karey’s expertise in role leveling, aligning job responsibilities to job architecture, and enabling fair pay decisions through structured intake of qualitative and quantitative role data.
 
----
+💰 4. Market-Informed Salary Increase Proposal – kw.pdf
+Portfolio Description:
+Combines market benchmarking, internal equity checks, budgeting, and retention risk analysis into a structured salary increase proposal. Supports fair and competitive decision-making across HR and Finance.
 
-## 💰 Incentive Design & Compensation Planning
+📊 5. Comp Surveys Side-by-Side Integrity Analysis – kw.pdf
+Portfolio Description:
+A statistical audit of survey vendor data using Z-scores, IQR, and delta % to validate benchmark reliability. Demonstrates Karey’s governance mindset and strong data vetting skills for comp decisions.
 
-### 🧮 Interactive LTI Compensation Calculator  
-**`Karey_Wong_Interactive_LTI_Compensation_Calculator.xlsm`**  
-An interactive Excel model for designing board-ready Long-Term Incentive (LTI) scenarios. Supports six payout models (min, target, capped, interpolated, and mix-and-match) with full-year and prorated outputs. Includes dropdown-driven performance logic and embedded payout interpolation with a 150% cap.  
-> 💡 Includes a hidden tab with full financial statement projections (IS, BS, CF) from 2024–2029 for realistic target-setting.
+📘 6. Compensation Benchmarking Guide for HRBPs – kw.pdf
+Portfolio Description:
+An HRBP-friendly toolkit explaining how to understand and apply market data in compensation decisions. Promotes partnership between compensation teams and business leaders.
 
----
+⚖️ 7. Pay Equity Regression Analysis Toolkit – kw.xlsx
+Portfolio Description:
+Uses regression to detect unexplained pay gaps across protected classes. Demonstrates Karey’s ability to operationalize DEI commitments through statistical modeling and risk mitigation.
 
-### 📈 LTI Model Using DCF & Gordon Growth  
-**`Karey_Wong_Sample_LTI_Model_(DCF_&_Gordon Growth_EV_Analysis).xlsx`**  
-Valuation-based LTI model that ties equity awards to long-term enterprise value using both Discounted Cash Flow (DCF) and Gordon Growth methods. Ideal for executive LTI planning in growth-mode or pre-IPO companies.
+🧮 8. Short Term Incentive Payout Modeling Tool – kw.xlsm
+Portfolio Description:
+Calculates bonus payouts using corporate, unit, and individual weights. Includes proration logic for leaves and new hires. Optimizes accuracy and automation for comp and payroll teams.
 
----
+🛠️ 9. Short Term Incentive Plan Design & Governance Document – kw.pdf
+Portfolio Description:
+Outlines plan funding, goal-setting mechanics, and governance standards. This governance doc promotes transparency, alignment, and defensibility in bonus design.
 
-### 📊 Short-Term Incentive (STI) Scenario Planner  
-**`Karey_Wong_Sample_Short_Term_Incentive_Models.xlsx`**  
-A dynamic STI modeling tool that calculates bonus payouts using weighted goals, funding logic, performance calibration, and target thresholds. Helps HR teams forecast and explain bonus outcomes.
+🧩 10. Workday Bonus Accrual & Proration Logic – kw.pptx
+Portfolio Description:
+Presents the technical logic Karey built in Workday to automate bonus accruals and proration calculations. Bridges compensation policy with HRIS implementation.
 
----
+📈 11. Long Term Incentive Forecast & Performance Modeling Toolkit – kw.xlsm
+Portfolio Description:
+Forecasts award values using EV, EBITDA, and Net Income to model long-term incentive payouts. Demonstrates Karey’s strategic modeling capabilities for performance-based plans.
 
-### 🧠 CEO Pay Regression Analysis  
-**`Karey_Wong_Sample_CEO_Regression_Pay_Analysis.xlsm`**  
-Macro-enabled regression model for benchmarking CEO compensation against peer groups using multivariate factors. Outputs include regression lines, R² scores, and pay alignment visuals—ideal for proxy prep and defensible executive pay decisions.
+📉 12. Long Term Incentive Valuation Model: DCF & Gordon Growth – kw.xlsx
+Portfolio Description:
+Calculates Enterprise Value using discounted cash flow and terminal value methods. Supports equity valuation and scenario planning for long-term compensation design.
 
----
+🧠 13. 15 Long Term and 11 Short Term Incentive Design & Governance Matrix – kw.xlsx
+Portfolio Description:
+A master comparison of 26 incentive plans by tax, vesting, valuation, performance metric, and company fit. Ideal for Boards and CHROs evaluating plan options.
 
-### 📘 STI Mechanics & Governance Guide  
-**`STI_Mechanics_&_Governance_Guide.pdf`**  
-A board- and employee-facing guide explaining how STI plans are funded, calculated, and governed. Includes sample payout logic, funding formulas, and payout ranges for different performance outcomes.
+🏢 14. Executive Total Rewards Peer Benchmarking – kw.pdf
+Portfolio Description:
+Side-by-side benchmark of executive base, bonus, equity, and perks. Demonstrates Karey’s ability to normalize complex packages across currencies and industries.
 
----
+🔍 15. CEO Pay-for-Performance Regression Toolkit – kw.xlsm
+Portfolio Description:
+Measures alignment between CEO pay and financial results using regression. Enables compensation committees to link executive pay to performance outcomes.
 
-### ⚙️ Workday Bonus Proration & Accrual Setup  
-**`Workday_Bonus_Prorate_Accrual_Setup.ppt`**  
-Step-by-step configuration guide for implementing bonus proration and accrual automation within Workday. Includes backend screenshots, use cases, and reporting automation setup.
+💻 16. VBA Stock Analysis Tool: Compensation & Market Insights – kw.xlsm
+Portfolio Description:
+Automates stock data retrieval for equity trend analysis. Showcases Karey’s technical ability to use VBA for compensation research and modeling.
 
----
+🛡️ 17. Project Governance, Risk & Change Management Strategy – Karey Wong
+Portfolio Description:
+A project kickoff and governance deck for an Oracle + OKR rollout. Demonstrates Karey's strengths in project leadership, risk mitigation, stakeholder alignment, and organizational change management.
 
-## 📊 Market Benchmarking & Equity Analytics
-
-### 🟣 Pay Equity Regression Model  
-**`Karey_Wong_Sample_Pay_Equity_Regression_Analysis.xlsx`**  
-Statistical regression-based Excel model for identifying and visualizing pay equity disparities by gender, race, tenure, and level. Highlights statistically significant gaps using adjusted and unadjusted pay comparisons.
-
----
-
-## 🏗️ Job Architecture & Evaluation
-
-### 🏗️ Job & Pay Architecture Overview  
-**`Job & Pay Architecture Overview-kw.pdf`**  
-A visual guide to building scalable, simplified job architectures. Outlines pain points, guiding principles, global leveling, geographic pay differentials, and differentiated LTI targets by role and market group. Ideal for companies evolving toward consistent leveling and pay equity.
-
----
-
-### 📝 Job Evaluation Template  
-**`Job Evaluation Template-kw.pdf`**  
-A practical form for evaluating and slotting jobs during restructures, benchmarking exercises, or leveling projects. Captures responsibilities, qualifications, reporting lines, management scope, and budget impact to determine job size and placement.
-
----
-
-## 🛠️ Project & System Implementation
-
-### 🧭 Project Governance and Risk Management Guide  
-**`Project_Governance_Risk_Management.pdf`**  
-Outlines the full implementation lifecycle for HR systems, with project milestone tracking, stakeholder mapping, risk mitigation strategies, and change management communications.
-
----
-
-## 👤 About Karey Wong
-
+# 👤 About Karey Wong
 With deep expertise in compensation strategy, pay equity analysis, executive benchmarking, and incentive plan modeling, I build tools that bridge finance and HR. My goal is to help companies make fair, competitive, and performance-aligned pay decisions at scale.
+
+
+
