@@ -33,7 +33,7 @@ Portfolio Description: A statistical model that flags unexplained pay gaps after
 ###💼 Pay-for-Performance & Incentive Plan Design (Short & Long Term)
 
 🧠 15 Long Term Incentive and 11 Short Term Design & Governance Matrix-kw.xlsx
-Portfolio Description: A comprehensive matrix comparing 15 long-term and 11 short-term incentive plans. Captures vesting, valuation, tax, payout logic, and performance linkages. Used to help CHROs and boards evaluate options. Showcases my breadth of plan knowledge and ability to tailor designs to business goals.
+Portfolio Description: A comprehensive matrix comparing all type of long-term and hort-term incentive plans side by side. Captures vesting, valuation, tax, payout logic, and performance linkages. Used to help CHROs and boards evaluate options. Showcases my breadth of plan knowledge and ability to tailor designs to business goals.
 
 📉 Long Term Incentive Forecast & Performance Modeling Toolkit–kw.xlsm
 Portfolio Description: Forecasting model that links EBITDA, revenue, and net income scenarios to potential LTI payouts under various plan designs. Built to advise CFOs and heads of compensation on strategic value sharing. Highlights my skills in scenario modeling, valuation, and ROI-aligned compensation strategy.
