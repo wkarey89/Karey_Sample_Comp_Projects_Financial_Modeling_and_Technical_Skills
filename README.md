@@ -1,41 +1,81 @@
 # 🧾 Compensation Program Portfolio – Karey Wong
 
-Welcome to my GitHub portfolio, showcasing detailed, practical tools and templates designed to streamline and enhance your company's compensation strategy, financial modeling, and pay governance processes. Each file represents my strong capabilities in analytical rigor, technical expertise, strategic communication, and robust governance frameworks. These resources can be easily adapted to support HR, Compensation teams, and business leaders in making informed, data-driven decisions.
 
-💰 Incentive Design & Compensation Planning
+Welcome to my GitHub portfolio, showcasing practical tools and templates to support strategic compensation planning, pay governance, market benchmarking, and equity design. Each resource demonstrates my capabilities in financial modeling, incentive plan design, data analytics, and scalable HR systems.
 
-Comp Program Communication – STI Mechanics & Governance (PDF): A clear, structured communication guide outlining Short-Term Incentive (STI) mechanics, funding logic, achievement interpolation, and distribution governance.
+This collection is built for HR, Compensation, and Total Rewards professionals looking to implement best-in-class, data-driven compensation strategies.
 
-Karey_Wong_Sample_Short_Term_Incentive_Models.xlsx: Dynamic Excel models demonstrating goal-weighted STI scenarios, performance calibration, and accurate incentive payout forecasting.
+---
 
-Karey_Wong_Sample_LTI_Model_(DCF_&_Gordon Growth_EV_Analysis).xlsx: Advanced Long-Term Incentive (LTI) valuation models using Discounted Cash Flow (DCF) and Gordon Growth methods, including CEO equity pay planning and enterprise value analysis.
+## 💰 Incentive Design & Compensation Planning
 
-Karey_Wong_Sample_CEO_Regression_Pay_Analysis.xlsm: Macro-driven regression analysis tool designed to benchmark and justify CEO compensation relative to peer companies using multivariate statistical methods.
+### 🧮 Interactive LTI Compensation Calculator  
+**`Karey_Wong_Interactive_LTI_Compensation_Calculator.xlsm`**  
+An interactive Excel model for designing board-ready Long-Term Incentive (LTI) scenarios. Supports six payout models (min, target, capped, interpolated, and mix-and-match) with full-year and prorated outputs. Includes dropdown-driven performance logic and embedded payout interpolation with a 150% cap.  
+> 💡 Includes a hidden tab with full financial statement projections (IS, BS, CF) from 2024–2029 for realistic target-setting.
 
-Workday – Bonus Proration & Accrual Automation (PPT): Custom-built Workday configurations automating bonus proration calculations and accrual reporting for hires, salary adjustments, and leaves, significantly enhancing operational efficiency.
+---
 
-📊 Market Benchmarking & Equity Analytics
+### 📈 LTI Model Using DCF & Gordon Growth  
+**`Karey_Wong_Sample_LTI_Model_(DCF_&_Gordon Growth_EV_Analysis).xlsx`**  
+Valuation-based LTI model that ties equity awards to long-term enterprise value using both Discounted Cash Flow (DCF) and Gordon Growth methods. Ideal for executive LTI planning in growth-mode or pre-IPO companies.
 
-Market Analysis Overview – For HRBPs (PDF): Strategic guide for HR Business Partners detailing the importance of market studies, supply and demand dynamics, and guidance on selecting appropriate benchmarking surveys.
+---
 
-Executive Total Rewards Benchmarking (PDF): Detailed comparative analysis of executive total compensation (base salary, bonuses, equity) to maintain competitive and equitable executive pay practices.
+### 📊 Short-Term Incentive (STI) Scenario Planner  
+**`Karey_Wong_Sample_Short_Term_Incentive_Models.xlsx`**  
+A dynamic STI modeling tool that calculates bonus payouts using weighted goals, funding logic, performance calibration, and target thresholds. Helps HR teams forecast and explain bonus outcomes.
 
-Survey Standard Deviation and Delta Analysis (PDF): Analytical tools to identify outliers in market survey data, employing delta variance analysis and Z-scores to ensure benchmark accuracy and data integrity.
+---
 
-Salary Increase Proposal Template (PDF): Structured proposals for merit or off-cycle increases, with comprehensive analysis of internal equity, compa-ratio alignment, and financial justification.
+### 🧠 CEO Pay Regression Analysis  
+**`Karey_Wong_Sample_CEO_Regression_Pay_Analysis.xlsm`**  
+Macro-enabled regression model for benchmarking CEO compensation against peer groups using multivariate factors. Outputs include regression lines, R² scores, and pay alignment visuals—ideal for proxy prep and defensible executive pay decisions.
 
-Karey_Wong_Sample_Pay_Equity_Regression_Analysis.xlsx: Comprehensive regression-based pay equity analysis model identifying statistically significant disparities in pay across gender, race, tenure, and job levels.
+---
 
-🏗️ Job Architecture & Evaluation
+### 📘 STI Mechanics & Governance Guide  
+**`STI_Mechanics_&_Governance_Guide.pdf`**  
+A board- and employee-facing guide explaining how STI plans are funded, calculated, and governed. Includes sample payout logic, funding formulas, and payout ranges for different performance outcomes.
 
-Job & Pay Architecture Overview (PDF): Detailed insights into the development and benefits of effective job and pay architectures, addressing pain points and delivering clear frameworks for career progression and compensation.
+---
 
-Job Evaluation Template (PDF): Robust evaluation template for accurately defining job responsibilities, qualifications, and organizational structure, facilitating precise job slotting and benchmarking.
+### ⚙️ Workday Bonus Proration & Accrual Setup  
+**`Workday_Bonus_Prorate_Accrual_Setup.ppt`**  
+Step-by-step configuration guide for implementing bonus proration and accrual automation within Workday. Includes backend screenshots, use cases, and reporting automation setup.
 
-Technical Skills- WD Backend JA & Comp Configurations- kw: JA and Comp Grade Configurations on the backend in Worday guide
+---
 
-🛠️ Project & System Implementation
+## 📊 Market Benchmarking & Equity Analytics
 
-Project Governance and Risk Management (PDF): Strategic framework for managing HRIS implementations, featuring detailed stakeholder engagement matrices, risk tracking, change management practices, and clear program milestones.
+### 🟣 Pay Equity Regression Model  
+**`Karey_Wong_Sample_Pay_Equity_Regression_Analysis.xlsx`**  
+Statistical regression-based Excel model for identifying and visualizing pay equity disparities by gender, race, tenure, and level. Highlights statistically significant gaps using adjusted and unadjusted pay comparisons.
 
-This portfolio is thoughtfully designed to help you efficiently address common challenges in compensation planning, market benchmarking, pay equity, job architecture, and system implementations, ultimately empowering your team to deliver strategic value consistently.
+---
+
+## 🏗️ Job Architecture & Evaluation
+
+### 🏗️ Job & Pay Architecture Overview  
+**`Job & Pay Architecture Overview-kw.pdf`**  
+A visual guide to building scalable, simplified job architectures. Outlines pain points, guiding principles, global leveling, geographic pay differentials, and differentiated LTI targets by role and market group. Ideal for companies evolving toward consistent leveling and pay equity.
+
+---
+
+### 📝 Job Evaluation Template  
+**`Job Evaluation Template-kw.pdf`**  
+A practical form for evaluating and slotting jobs during restructures, benchmarking exercises, or leveling projects. Captures responsibilities, qualifications, reporting lines, management scope, and budget impact to determine job size and placement.
+
+---
+
+## 🛠️ Project & System Implementation
+
+### 🧭 Project Governance and Risk Management Guide  
+**`Project_Governance_Risk_Management.pdf`**  
+Outlines the full implementation lifecycle for HR systems, with project milestone tracking, stakeholder mapping, risk mitigation strategies, and change management communications.
+
+---
+
+## 👤 About Karey Wong
+
+With deep expertise in compensation strategy, pay equity analysis, executive benchmarking, and incentive plan modeling, I build tools that bridge finance and HR. My goal is to help companies make fair, competitive, and performance-aligned pay decisions at scale.
