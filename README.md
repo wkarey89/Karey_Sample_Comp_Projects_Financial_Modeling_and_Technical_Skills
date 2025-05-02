@@ -1,6 +1,6 @@
 # 🧾 Compensation Program Portfolio – Karey Wong
 
-Welcome to my GitHub portfolio, showcasing practical tools and templates to support strategic compensation planning, pay governance, market benchmarking, and equity design. Each resource demonstrates my capabilities in financial modeling, incentive plan design, data analytics, and scalable HR systems. This collection is built for HR, Compensation, and Total Rewards professionals looking to implement best-in-class, data-driven compensation strategies.
+Welcome to my GitHub portfolio, a curated collection of real-world compensation tools and templates I’ve designed to support enterprise-level pay strategy. These work samples reflect my ability to lead compensation planning across job architecture, benchmarking, governance, compliance, equity design, and pay-for-performance frameworks. From building global salary structures and incentive plans to automating compensation cycles in HR systems like Workday, each resource demonstrates my strengths in financial modeling, stakeholder education, data analytics, and strategic communication. This portfolio is built for HR and Total Rewards leaders seeking scalable, compliant, and business-aligned compensation solutions
 
 ---
 
@@ -91,4 +91,4 @@ Welcome to my GitHub portfolio, showcasing practical tools and templates to supp
 
 ## 👤 About Karey Wong
 
-With deep expertise in compensation strategy, pay equity analysis, executive benchmarking, and incentive plan modeling, I build tools that bridge finance and HR. My goal is to help companies make fair, competitive, and performance-aligned pay decisions at scale.
+I’m a strategic compensation leader with 16+ years of experience helping companies design and scale competitive pay programs that support business growth and talent retention. From job architecture and base pay frameworks to incentive modeling, equity strategy, and compensation governance, I bring deep technical expertise and business insight. I specialize in building clear, adaptable tools that help HR and business leaders make confident, data-informed decisions. My approach blends analytical rigor, operational precision, and cross-functional partnership—always with the goal of making compensation programs more impactful, competitive, and scalable.
