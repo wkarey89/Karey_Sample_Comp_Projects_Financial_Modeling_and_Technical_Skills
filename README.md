@@ -1,94 +1,103 @@
-# 🧾 Compensation Program Portfolio – Karey Wong
+# 💼 Compensation Program Portfolio  
+– Karey Wong  
 
-Welcome to my GitHub portfolio, a curated collection of real-world compensation tools and templates I’ve designed to support enterprise-level pay strategy. These work samples reflect my ability to lead compensation planning across job architecture, benchmarking, governance, compliance, equity design, and pay-for-performance frameworks. From building global salary structures and incentive plans to automating compensation cycles in HR systems like Workday, each resource demonstrates my strengths in financial modeling, stakeholder education, data analytics, and strategic communication. This portfolio is built for HR and Total Rewards leaders seeking scalable, compliant, and business-aligned compensation solutions
-
----
-
-### 🧭 Job Architecture & Job Evaluation
-
-1. 🏗️ **Global Job & Pay Architecture Framework–kw.pdf**  
-   A strategic design framework detailing global job families, leveling, compensation grades, and geographic pay differentials. This tool reflects my ability to build scalable infrastructure that aligns compensation with talent mobility, career progression, and internal equity. It was used to eliminate title inflation, reinforce pay consistency, and enable global growth strategies by integrating structure and transparency into total rewards philosophy.
-
-2. 📝 **Job Evaluation Template – Role Benchmarking & Leveling Guide–kw.pdf**  
-   A structured template designed to standardize role leveling and compensation benchmarking across teams. Enables HR and managers to capture qualitative and quantitative job data to ensure internal equity and market-aligned leveling. Demonstrates my ability to operationalize job architecture principles into simple, manager-friendly tools that drive consistent pay decisions.
+Welcome to my GitHub Portfolio, a curated collection of real-world compensation tools and templates I’ve designed to support enterprise-level pay strategy. These work samples reflect my ability to lead compensation planning across job architecture, benchmarking, governance, compliance, pay equity design, and pay-for-performance frameworks. From building global salary structures and incentive plans to automating compensation cycles in HR systems like Workday, each resource demonstrates my strengths in financial modeling, stakeholder education, data analytics, and strategic communication. This portfolio is built for HR and Total Rewards leaders seeking scalable, compliant, and business-aligned compensation solutions.  
 
 ---
 
-### 📊 Benchmarking, Total Rewards, & Pay Equity Analysis
+# 🧭 Job Architecture & Evaluation  
+1. 🏗️ Global Job & Pay Architecture Framework–kw  
+This strategic framework outlines how to structure job families, career levels, compensation grades, and geographic pay differentials to create a scalable, intuitive, and transparent compensation foundation. It was used to eliminate title inflation, reduce leveling inconsistency, and support global expansion by aligning pay architecture with talent mobility and career progression. The guide reflects my ability to design systems that balance market competitiveness with internal equity, while enabling workforce planning, succession, and business decision-making through structure, consistency, and clear governance.  
 
-3. 📘 **Market Analysis & Benchmarking Guide for HRBPs–kw.pdf**  
-   A comprehensive enablement guide designed to train HRBPs on interpreting compensation data, conducting market analysis, and delivering aligned messages to business leaders. Includes compa-ratio education, budgeting guidance, incentive payout frameworks, and communication tips. Demonstrates my ability to educate stakeholders, simplify technical comp concepts, and build confidence across cross-functional teams.
+2. 📝 Job Evaluation & Leveling Tool–kw  
+This structured evaluation tool is designed to standardize how HR and business leaders collect and assess job information to support internal equity, consistent leveling, and market benchmarking. It guides managers through capturing qualitative and quantitative data—such as scope, responsibilities, qualifications, revenue impact, and team structure—to inform pay decisions and job leveling recommendations. This template reflects my ability to translate job architecture principles into clear, actionable tools that empower cross-functional stakeholders to make fair and aligned compensation decisions.  
 
-4. 📊 **Comp Surveys Side-by-Side Data Integrity Analysis–kw.pdf**  
-   A quality audit across compensation surveys using Z-scores, IQR flags, and delta % to identify vendor discrepancies and mismatches in benchmark data. Highlights my governance rigor, data analytics expertise, and ability to ensure clean inputs for high-stakes compensation decisions.
-
-5. 💰 **Market-Informed Salary Increase Proposal–kw.pdf**  
-   A persuasive salary adjustment deck combining market data, compa-ratios, internal equity reviews, performance ratings, and retention risk. Used to gain CHRO and Finance approval for off-cycle increases. Demonstrates my data storytelling skills and ability to drive comp decisions under tight budget constraints.
-
-6. 🏢 **Total Rewards Executive Peer Benchmarking–kw.pdf**  
-   A comparative report evaluating global executive comp packages across base, variable, equity, pensions, and perks. Built to support board-level discussions on pay positioning. Demonstrates my strength in executive benchmarking, data normalization, and global comp strategy.
-
-7. 📊 **Total Rewards (Comp & Benefits) Analysis–kw.pdf**  
-   A custom-designed total rewards statement that visualizes the full value of compensation—pay, bonus, equity, and employer-covered benefits. Used to boost transparency and retention during reward cycle communications. Highlights my compensation communications expertise and employee experience focus.
-
-8. ⚖️ **Pay Equity Regression Analysis Toolkit – kw.xlsx**  
-   A statistical model that flags unexplained pay gaps after controlling for factors like level, tenure, performance, and location. Used for proactive DEI audits, legal compliance, and equity strategy. Demonstrates my ability to apply data science to drive equitable pay practices and mitigate organizational risk.
+3. ⚙️ Job Architecture & Comp Grade Backend Configurations Workday SOP–kw  
+This step-by-step technical guide outlines how to configure job families, compensation grades, grade profiles, and eligibility rules within Workday to support a scalable job architecture framework. It demonstrates my fluency in HRIS systems and ability to operationalize compensation structures in a way that ensures automation, data integrity, and alignment with geographic pay differentials and career levels. This backend setup supports global growth, reduces manual errors during transactions, and ensures compensation consistency across job profiles and business units.  
 
 ---
 
-### 💼 Pay-for-Performance & Incentive Plan Design (Short & Long Term)
+# 📊 Market Benchmarking & Executive Comp Analytics  
+4. 📘 Market Analysis & Benchmarking Guide for HRBPs–kw  
+This hands-on guide equips HRBPs with practical skills to interpret compensation survey data, assess market competitiveness, and deliver aligned, business-ready pay recommendations. It covers supply and demand trends, hot jobs, percentile targets, and survey selection strategies (general, industry-specific, and custom). The deck also includes compa-ratio education, budgeting considerations, sample retention proposals, and communication tips. Designed to simplify complex compensation concepts, this resource demonstrates my ability to partner cross-functionally and enable HR teams to confidently support data-driven, equitable, and market-aligned pay decisions.  
 
-9. 🧠 **15 Long Term Incentive and 11 Short Term Design & Governance Matrix–kw.xlsx**  
-   A comprehensive matrix comparing all types of short- and long-term incentive plans side by side. Captures vesting, valuation, tax, payout logic, and performance linkages. Used to help CHROs and boards evaluate options. Showcases my breadth of plan knowledge and ability to tailor designs to business goals.
+5. 🔍 Comp Survey Data Integrity Audit Tool–kw  
+This audit tool performs a cross-survey data validation using Z-scores, delta percentage variances, and IQR outlier flags to surface inconsistencies across multiple compensation vendors. It identifies misaligned benchmarks, leveling errors, and statistical anomalies—ensuring only clean, high-integrity data flows into pay structure updates and high-stakes comp decisions. This file demonstrates my technical rigor, Excel modeling capability, and commitment to governance standards in compensation analytics.  
 
-10. 📉 **Long Term Incentive Forecast & Performance Modeling Toolkit–kw.xlsm**  
-    A forecasting model linking EBITDA, revenue, and net income scenarios to potential LTI payouts under multiple plan designs. Built to advise CFOs and compensation leaders on strategic value sharing. Demonstrates my financial modeling strength and performance alignment capabilities.
+6. ⚖️ Internal Equity Benchmarking Tool–kw  
+This advanced Excel tool identifies potential internal pay gaps by comparing compensation across employees in similar roles, levels, locations, tenure, and performance. It uses visual flags, and logic checks to highlight inconsistencies for further review, helping HRBPs and comp teams proactively address internal equity concerns. Built to support calibration, promotion, and retention conversations, this tool reflects my focus on fairness, compliance, and strategic compensation design rooted in both data and employee trust.  
 
-11. 🏗️ **Long Term Incentive Enterprise Valuation Model: DCF & Gordon Growth–kw.xlsx**  
-    A valuation tool using DCF and terminal value methods to estimate equity value. Used during IPO planning and M&A scenarios to support equity design. Highlights my financial acumen and ability to align long-term incentives with enterprise value creation.
+7. 💰 Market-Informed Salary Adjustment Proposal Tool–kw  
+This analytical tool supports off-cycle salary adjustment decisions by combining market benchmarks, compa-ratios, internal equity insights, performance ratings, and retention risk into one clear and actionable framework. It was used to secure CHRO and Finance approval for targeted increases outside the annual cycle. The tool demonstrates my ability to synthesize complex compensation inputs into persuasive, data-backed recommendations—highlighting my strengths in compensation analytics, budgeting precision, and stakeholder alignment.  
 
-12. 🔍 **CEO Pay-for-Performance Regression Toolkit–kw.xlsm**  
-    A regression-based tool evaluating alignment between CEO pay and financial results. Built to support board governance and pay-for-performance philosophy. Demonstrates my advanced analytics and executive compensation strategy skills.
+8. 📈 CEO Compensation Forecasting Tool–kw  
+This tool applies multiple linear regression to forecast CEO base pay based on key financial drivers—organization revenue, total payroll (excluding the CEO), and EBITDA. It calculates predictive coefficients, explains over 92% of variance in CEO pay (R² = 0.92), and provides visual line fit plots for clear interpretation. Built for boards and comp committees, the model helps validate or challenge executive pay decisions using financial performance data. This reflects my ability to translate analytics into governance-ready tools that support fairness, transparency, and defensible pay practices.  
 
-13. 🧮 **Short Term Incentive Payout Modeling Tool–kw.xlsm**  
-    An Excel tool that automates STI payout calculations using weighted performance goals and proration logic. Supports budgeting and communication across HR and Finance. Highlights my operational modeling precision and efficiency mindset.
-
-14. 🧠 **Short Term & Long Term Incentive Models (Side-by-Side)–kw.xlsx**  
-    A side-by-side comparison model of cash bonus, RSUs, PSUs, and performance-based LTIs. Created to evaluate tradeoffs in public vs private equity plans. Demonstrates my consulting acumen and fluency in incentive design frameworks.
-
-15. 🛠️ **Short Term Incentive Plan Design & Governance Deck–kw.pdf**  
-    A business-facing presentation explaining STI plan mechanics, funding logic, performance alignment, and payout curves. Supports stakeholder clarity across HR, Legal, and Finance. Highlights my governance mindset and communication strength.
+9. 🏢 Executive Peer Benchmarking Tool–kw  
+This tool provides a side-by-side comparison of global executive compensation packages across peer companies, covering base salary, annual bonuses, RSUs, PSAs, retirement benefits (401k, pension, SERP), and executive perks. It was developed to support board-level discussions on competitive pay positioning, risk of over/underpaying, and compensation governance. The model includes data normalization across currencies, multiple base pay calculations, and total rewards rollups—demonstrating my expertise in executive benchmarking, pay transparency, and strategic compensation storytelling.  
 
 ---
 
-### 🛠️ Focal Planning, Systems Automation & Project Management
+# 📊 Total Rewards Communication & Delivery  
+10. 📊 Total Rewards Statement Tool–kw  
+This custom-designed total rewards statement translates compensation and benefits data into a visually engaging format that clearly shows employees the full value of their pay—base salary, bonuses, long-term incentives, and employer-covered benefits like healthcare, 401(k), tuition, and FICA contributions. Used during reward cycle communications, the tool is built to drive transparency, boost engagement, and improve retention. It reflects my strengths in compensation communication, data storytelling, and employee experience design by simplifying complex data into something accessible and motivating.  
 
-16. 🛡️ **Goal Setting, Oracle System Implementation, Project Governance, Risk & Change Management Strategy–kw.pdf**  
-    A project governance deck to lead comp and HRIS transformation. Includes stakeholder mapping, escalation rules, and change logs. Showcases my leadership in complex systems rollout and risk mitigation strategies.
+11. 📈 Total Rewards New Hire Offer Tool–kw  
+A recruiter-friendly calculator that compares internal vs external offers with total rewards visualization. Supports recruiter and manager discussions with candidates. Highlights my stakeholder empathy and internal equity advocacy.  
 
-17. 📘 **Annual Performance Appraisal in Oracle Playbook–kw.pdf**  
-    A playbook for HR and managers on performance rating calibration and MBO scoring tied to compensation. Built to support fairness and consistency. Demonstrates my ability to connect performance management to pay outcomes.
-
-18. 🛠️ **Annual Compensation Planning in Workday Guide–kw.pdf**  
-    A workflow reference guide covering eligibility uploads, budget alignment, and comp cycle approvals in Workday. Created to support HRIS and Comp operations. Demonstrates my systems integration and comp operations leadership.
-
-19. 🏗️ **Job Architecture & Comp Grade Backend Configurations in Workday–kw.pdf**  
-    A technical guide for backend job setup and grade configuration in Workday. Shows my HRIS fluency and ability to translate job architecture into system frameworks. Built for scalable and automated structures.
-
-20. 🧩 **Automating Bonus Calculations, Accrual & Prorations in Workday–kw.pptx**  
-    A visual logic flow for implementing bonus proration and accrual logic in Workday. Covers mid-year hires, LOA, exits, and eligibility status. Highlights my ability to align pay policy with system automation.
-
-21. 💻 **VBA Stock Analysis Tool: Compensation & Market Insights–kw.xlsm**  
-    A VBA-enabled Excel model to scrape peer stock data for comp benchmarking and equity modeling. Used to support equity planning and Black-Scholes modeling. Demonstrates my programming skills and comp research innovation.
-
-22. 📉 **Severance Statement Calculator–kw.xlsx**  
-    A dynamic calculator for generating severance payouts based on tenure, location, and level. Enables HR to deliver compliant, cost-aware separation packages. Demonstrates my risk mitigation and compliance design skills.
-
-23. 📈 **New Hire Offer Package Side-by-Side Comparison Calculator–kw.xlsx**  
-    A recruiter-friendly calculator that compares internal vs external offers with total rewards visualization. Supports recruiter and manager discussions with candidates. Highlights my stakeholder empathy and internal equity advocacy.
+12. 📉 Total Rewards Severance Statement Tool–kw  
+This interactive calculator generates individualized severance statements by factoring in tenure, job level, geographic location, bonus eligibility, and benefits continuation policies. Built for HR teams, it ensures compliance with local severance laws while giving Finance visibility into cost exposure. The tool supports consistent, equitable, and transparent offboarding practices. It reflects my ability to design scalable separation frameworks that balance risk mitigation, employee care, and budget control.  
 
 ---
 
-## 👤 About Karey Wong
+# 📊 Pay Equity and Transparency
+
+13. ⚖️ Pay Equity Regression Analysis Toolkit–kw  
+This statistical toolkit uses multiple linear regression to identify potential pay inequities after controlling for legitimate business factors such as level, tenure, performance, and location. It highlights unexplained pay gaps, calculates p-values for statistical significance, and supports proactive DEI audits, legal risk mitigation, and equitable compensation practices. Built for comp leaders and HR teams, this tool reflects my ability to apply data science principles to real-world people analytics and support fair, defensible pay outcomes.
+
+---
+
+# 💼 Incentive Plan Design, Modeling & Governance
+
+14. 🧠 15 Long Term Incentive & 11 Short Term Design & Governance Matrix–kw  
+This comprehensive matrix compares 15 long-term and 11 short-term incentive plan types across key attributes including valuation methods, vesting schedules, performance metrics, tax treatment, payout structure, and plan eligibility. It helps CHROs, compensation committees, and private company leaders evaluate design trade-offs and select incentive plans aligned with company stage, talent strategy, and financial goals. This tool showcases my breadth of incentive plan expertise, governance mindset, and ability to translate technical plan mechanics into business-aligned strategy.
+
+15. 🏗️ Enterprise Value-Based LTI Payout Modeling Tool–kw  
+This incentive modeling tool calculates LTI payouts by linking enterprise value growth to individual award values using DCF and Gordon Growth methods. It includes multi-year revenue, EBITDA, and free cash flow projections, sensitivity testing across WACC and terminal growth rates, and payout calculations based on threshold, target, and max scenarios. Built for IPO prep, private equity modeling, and M&A scenarios, this tool showcases my ability to blend valuation modeling with equity design strategy and support value-sharing decisions at the highest levels.
+
+16. 📉 Financial Performance & Incentive Payout Modeling Tool–kw  
+This Excel-based toolkit combines financial forecasting with incentive design logic to model both short- and long-term performance-based compensation scenarios. It projects 5-year income statements, balance sheets, and cash flow, then calculates enterprise value using discounted cash flow and terminal growth formulas. The tool ties these financial outputs to bonuses and LTI payout tiers (threshold, target, max) and visualizes total direct compensation under various growth paths. Built to support CFOs, CHROs, and comp leaders, it reflects my ability to bridge corporate finance with strategic rewards planning.
+
+17. 🧮 KPIs & Incentive Payout Modeling Tool–kw  
+This Excel-based tool calculates short-term incentive (STI) payouts based on financial and non-financial performance KPIs, with logic that handles weighting, interpolation between performance tiers, and proration for partial-year performance. It includes payout curves, goal-setting guidance, and level-based weighting recommendations for C-suite through manager levels. Built for compensation teams, HRBPs, and Finance partners, this tool supports budgeting, calibration, and transparent communication of bonus outcomes. It reflects my ability to bring operational rigor and strategic alignment into every phase of the incentive planning process.
+
+18. 🧠 Short- & Long-Term Incentive Funding & Payout Modeling Tool–kw  
+This Excel tool enables detailed modeling and comparison of short- and long-term incentive structures, including cash bonuses, RSUs, PSUs, and performance-based LTI awards. The model includes payout interpolation logic, grant schedules, proration mechanics, estimated realized compensation, and bonus scorecards tied to financial and non-financial KPIs. It was designed to support performance planning and stakeholder education across both public and private equity structures. This showcases my expertise in incentive design, executive compensation strategy, and financial modeling aligned to business outcomes.
+
+19. 🛠️ Short-Term Incentive Funding & Payout Governance Deck–kw  
+A business-ready governance guide that outlines how STI (Annual Incentive Plan) funding is determined, how payouts are calculated, and how performance metrics drive both. Includes funding interpolation tables, sample payout scenarios, role-based target allocations, and individual vs company objective splits. Highlights my ability to balance financial accountability with equitable incentive design, and to clarify complex concepts across HR, Legal, and Finance.
+
+20. 🧩 Incentive Accrual & Proration Automation Logic in Workday–kw  
+A system logic deck mapping how to automate bonus proration and accrual calculations for mid-year hires, LOAs, exits, and salary changes in Workday. Built from scratch in the Workday Community Tenant. Demonstrates my ability to translate pay policy into system rules and calculated fields, streamlining bonus processing while ensuring compliance and accuracy across complex employee scenarios.
+
+---
+
+# 🛠️ Project Management & HR System Implementation
+
+21. 🛡️ Oracle HRIS Implementation & Project Governance Strategy Deck–kw  
+This executive-level playbook outlines the end-to-end governance and change management strategy for an Oracle HRIS and goal-setting module implementation. It includes stakeholder mapping, decision escalation protocols, project team allocations, risk mitigation, and change adoption frameworks. Built to guide HR transformation and system rollouts, the deck reflects my leadership in aligning cross-functional teams, managing project risk, and driving scalable, people-centric implementations.
+
+22. 📘 Oracle Performance Review & Calibration Guide–kw  
+This training guide walks HR and managers through the end-to-end Oracle performance review process, including goal assessment, competency ratings, development planning, and calibration workflows. It includes system navigation instructions, score calculators, rating scales, and manager resources for aligning merit and bonus decisions to employee performance. Built to promote consistency and fairness, the guide reflects my ability to operationalize performance management systems while reinforcing pay-for-performance principles across an enterprise.
+
+23. 🛠️ Annual Compensation Planning in Workday – Admin Workflow Guide–kw  
+This guide outlines the full backend process for running annual compensation cycles in Workday, including merit and incentive planning setup, EIB uploads, eligibility configurations, and audit logic. It walks comp administrators through every step—such as creating eligible earnings periods, troubleshooting report logic, and submitting final bonus approvals. Designed to reduce system errors and ensure operational accuracy, this tool reflects my strength in compensation operations, HRIS integration, and scalable comp cycle execution.
+
+24. 💻 VBA Stock Analysis Automation Tool – kw  
+This Excel VBA tool automates stock performance analysis across multiple years and tickers by calculating total daily trading volume and return rates. Originally created for a green energy investment case study, the workbook features clean, modular code, runtime efficiency tracking, and clear annotation. Demonstrates my ability to apply programming logic, automate repetitive analysis, and visualize data-driven decisions in Excel.
+
+---
+
+# 👤 About Karey Wong
 
 I’m a strategic compensation leader with 16+ years of experience designing and scaling compensation programs across diverse industries and global markets. My portfolio spans job architecture, market benchmarking, base pay strategy, incentive design (cash and equity), compensation governance, and HR systems implementation. I bring a rare blend of analytical depth, operational excellence, and business partnership—able to lead teams or independently drive high-impact projects from strategy to execution. I’ve coached HR teams, mentored peers, and partnered with C-suite leaders to build comp programs that are scalable, performance-aligned, and competitively positioned to attract and retain top talent.
