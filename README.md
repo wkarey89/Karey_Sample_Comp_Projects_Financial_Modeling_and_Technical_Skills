@@ -65,35 +65,38 @@ This comprehensive matrix compares 15 long-term and 11 short-term incentive plan
 15. 🏗️ Enterprise Value-Based LTI Payout Modeling Tool–kw  
 This incentive modeling tool calculates LTI payouts by linking enterprise value growth to individual award values using DCF and Gordon Growth methods. It includes multi-year revenue, EBITDA, and free cash flow projections, sensitivity testing across WACC and terminal growth rates, and payout calculations based on threshold, target, and max scenarios. Built for IPO prep, private equity modeling, and M&A scenarios, this tool showcases my ability to blend valuation modeling with equity design strategy and support value-sharing decisions at the highest levels.
 
-16. 📉 Financial Performance & Incentive Payout Modeling Tool–kw  
-This Excel-based toolkit combines financial forecasting with incentive design logic to model both short- and long-term performance-based compensation scenarios. It projects 5-year income statements, balance sheets, and cash flow, then calculates enterprise value using discounted cash flow and terminal growth formulas. The tool ties these financial outputs to bonuses and LTI payout tiers (threshold, target, max) and visualizes total direct compensation under various growth paths. Built to support CFOs, CHROs, and comp leaders, it reflects my ability to bridge corporate finance with strategic rewards planning.
+16. 📊 LTIP Financial Metric Comparison Table (Aligned to 3-Statement Financial Model)
+This PowerPoint presentation provides a clear, side-by-side comparison of key financial metrics—EBITDA and Enterprise Value (EV) Growth—as performance measures for Long-Term Incentive Plans (LTIPs). It outlines each metric's definitions, pros, cons, and application, using detailed examples to illustrate their impact on LTIP payouts. The deck is designed to educate stakeholders on best practices for aligning executive incentives with value creation, supporting data-driven decision-making for private and public companies.
 
-17. 🧮 KPIs & Incentive Payout Modeling Tool–kw  
+17. 📉 3-Linked Financial Statement Model – EBITDA vs. EV Growth LTIP Calculations
+This Excel model integrates a dynamic 3-statement financial model (Income Statement, Balance Sheet, and Cash Flow Statement) with Long-Term Incentive Plan (LTIP) calculations using two performance metrics: EBITDA and Enterprise Value (EV) Growth. It provides a side-by-side comparison of how each metric impacts LTIP payouts, with detailed forecasting, payout interpolation, and scenario analysis. The model is built to support executive compensation design for private and public companies, ensuring data-driven decision-making and alignment with strategic business objectives.
+
+18. 🧮 KPIs & Incentive Payout Modeling Tool–kw  
 This Excel-based tool calculates short-term incentive (STI) payouts based on financial and non-financial performance KPIs, with logic that handles weighting, interpolation between performance tiers, and proration for partial-year performance. It includes payout curves, goal-setting guidance, and level-based weighting recommendations for C-suite through manager levels. Built for compensation teams, HRBPs, and Finance partners, this tool supports budgeting, calibration, and transparent communication of bonus outcomes. It reflects my ability to bring operational rigor and strategic alignment into every phase of the incentive planning process.
 
-18. 🧠 Short- & Long-Term Incentive Funding & Payout Modeling Tool–kw  
-This Excel tool enables detailed modeling and comparison of short- and long-term incentive structures, including cash bonuses, RSUs, PSUs, and performance-based LTI awards. The model includes payout interpolation logic, grant schedules, proration mechanics, estimated realized compensation, and bonus scorecards tied to financial and non-financial KPIs. It was designed to support performance planning and stakeholder education across both public and private equity structures. This showcases my expertise in incentive design, executive compensation strategy, and financial modeling aligned to business outcomes.
+19. 🧠 Short- & Long-Term Incentive Funding & Payout Modeling Tool–kw  
+This Excel tool is a versatile solution for modeling and analyzing short- and long-term incentive (STI/LTI) plans, including annual incentive plans (AIPs), and performance-based long term incentive awards. It features flexible performance metrics (revenue, EBITDA, KPIs), payout interpolation (threshold, target, max), grant schedules, proration, and scenario analysis for robust forecasting. The tool is designed to support both public and private equity structures, providing clear visualizations and reporting for stakeholder presentations. This showcases my expertise in incentive design, executive compensation strategy, and financial modeling aligned with business outcomes.
 
-19. 🛠️ Short-Term Incentive Funding & Payout Governance Deck–kw  
+20. 🛠️ Short-Term Incentive Funding & Payout Governance Deck–kw  
 A business-ready governance guide that outlines how STI (Annual Incentive Plan) funding is determined, how payouts are calculated, and how performance metrics drive both. Includes funding interpolation tables, sample payout scenarios, role-based target allocations, and individual vs company objective splits. Highlights my ability to balance financial accountability with equitable incentive design, and to clarify complex concepts across HR, Legal, and Finance.
 
-20. 🧩 Incentive Accrual & Proration Automation Logic in Workday–kw  
+21. 🧩 Incentive Accrual & Proration Automation Logic in Workday–kw  
 A system logic deck mapping how to automate bonus proration and accrual calculations for mid-year hires, LOAs, exits, and salary changes in Workday. Built from scratch in the Workday Community Tenant. Demonstrates my ability to translate pay policy into system rules and calculated fields, streamlining bonus processing while ensuring compliance and accuracy across complex employee scenarios.
 
 ---
 
 # 🛠️ Project Management & HR System Implementation
 
-21. 🛡️ Oracle HRIS Implementation & Project Governance Strategy Deck–kw  
+22. 🛡️ Oracle HRIS Implementation & Project Governance Strategy Deck–kw  
 This executive-level playbook outlines the end-to-end governance and change management strategy for an Oracle HRIS and goal-setting module implementation. It includes stakeholder mapping, decision escalation protocols, project team allocations, risk mitigation, and change adoption frameworks. Built to guide HR transformation and system rollouts, the deck reflects my leadership in aligning cross-functional teams, managing project risk, and driving scalable, people-centric implementations.
 
-22. 📘 Oracle Performance Review & Calibration Guide–kw  
+23. 📘 Oracle Performance Review & Calibration Guide–kw  
 This training guide walks HR and managers through the end-to-end Oracle performance review process, including goal assessment, competency ratings, development planning, and calibration workflows. It includes system navigation instructions, score calculators, rating scales, and manager resources for aligning merit and bonus decisions to employee performance. Built to promote consistency and fairness, the guide reflects my ability to operationalize performance management systems while reinforcing pay-for-performance principles across an enterprise.
 
-23. 🛠️ Annual Compensation Planning in Workday – Admin Workflow Guide–kw  
+24. 🛠️ Annual Compensation Planning in Workday – Admin Workflow Guide–kw  
 This guide outlines the full backend process for running annual compensation cycles in Workday, including merit and incentive planning setup, EIB uploads, eligibility configurations, and audit logic. It walks comp administrators through every step—such as creating eligible earnings periods, troubleshooting report logic, and submitting final bonus approvals. Designed to reduce system errors and ensure operational accuracy, this tool reflects my strength in compensation operations, HRIS integration, and scalable comp cycle execution.
 
-24. 💻 VBA Stock Analysis Automation Tool – kw  
+25. 💻 VBA Stock Analysis Automation Tool – kw  
 This Excel VBA tool automates stock performance analysis across multiple years and tickers by calculating total daily trading volume and return rates. Originally created for a green energy investment case study, the workbook features clean, modular code, runtime efficiency tracking, and clear annotation. Demonstrates my ability to apply programming logic, automate repetitive analysis, and visualize data-driven decisions in Excel.
 
 ---
