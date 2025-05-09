@@ -62,7 +62,7 @@ This statistical toolkit uses multiple linear regression to identify potential p
 
 # 💼 Incentive Plan Design, Modeling & Governance
 
-15. 🧠 15 Long Term Incentive & 11 Short Term Design & Governance Matrix–kw  
+15. 🧠 15 Long Term Incentive & 11 Short Term Design & Governance Matrix  
 This comprehensive matrix compares 15 long-term and 11 short-term incentive plan types across key attributes including valuation methods, vesting schedules, performance metrics, tax treatment, payout structure, and plan eligibility. It helps CHROs, compensation committees, and private company leaders evaluate design trade-offs and select incentive plans aligned with company stage, talent strategy, and financial goals. This tool showcases my breadth of incentive plan expertise, governance mindset, and ability to translate technical plan mechanics into business-aligned strategy.
 
 16. 🏗️ Enterprise Value-Based LTI Payout Modeling Tool  
