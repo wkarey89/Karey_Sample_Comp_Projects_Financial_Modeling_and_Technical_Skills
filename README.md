@@ -15,7 +15,7 @@ This structured evaluation tool is designed to standardize how HR and business l
 3. ⚙️ Job Profile & Comp Grade Backend Configurations Workday SOP  
 This step-by-step technical guide outlines how to configure job profiles, career tracks, job families, compensation grades, grade profiles, condition rules, and eligibility criterias within Workday to support a scalable job architecture framework. It demonstrates my fluency in HRIS systems and ability to operationalize compensation structures in a way that ensures automation, data integrity, and alignment with geographic pay differentials and career levels. This backend setup supports global growth, reduces manual errors during transactions, and ensures compensation consistency across job profiles and business units.
 
-4. 🛠️ Salary Structure Overview
+4. 🛠️ Salary Structure Overview  
 This deck is a comprehensive guide designed to help organizations develop, implement, and manage an effective salary structure. It covers key topics including salary range design, job evaluation, market benchmarking, and pay governance, ensuring that compensation decisions are both competitive and compliant. The deck also includes a live exercise section for hands-on learning, empowering HR leaders to build salary structures aligned with business goals while maintaining transparency and fairness.
 
 ---
@@ -24,7 +24,7 @@ This deck is a comprehensive guide designed to help organizations develop, imple
 5. 📘 Market Analysis & Benchmarking Guide for HRBPs  
 This hands-on guide equips HRBPs with practical skills to interpret compensation survey data, assess market competitiveness, and deliver aligned, business-ready pay recommendations. It covers supply and demand trends, hot jobs, percentile targets, and survey selection strategies (general, industry-specific, and custom). The deck also includes compa-ratio education, budgeting considerations, sample retention proposals, and communication tips. Designed to simplify complex compensation concepts, this resource demonstrates my ability to partner cross-functionally and enable HR teams to confidently support data-driven, equitable, and market-aligned pay decisions.  
 
-6. 🔍 Using Central Tendency to Audit Survey Data Quality 
+6. 🔍 Using Central Tendency to Audit Survey Data Quality  
 This audit tool performs a cross-survey data validation using Z-scores, delta percentage variances, and IQR outlier flags to surface inconsistencies across multiple compensation vendors. It identifies misaligned benchmarks, leveling errors, and statistical anomalies—ensuring only clean, high-integrity data flows into pay structure updates and high-stakes comp decisions. This file demonstrates my technical rigor, Excel modeling capability, and commitment to governance standards in compensation analytics.  
 
 7. ⚖️ Comp Genie- Peer Ranking and Internal Equity Tool  
@@ -45,7 +45,7 @@ This tool provides a side-by-side comparison of global executive compensation pa
 11. 📊 Total Rewards Statement Tool  
 This custom-designed total rewards statement translates compensation and benefits data into a visually engaging format that clearly shows employees the full value of their pay—base salary, bonuses, long-term incentives, and employer-covered benefits like healthcare, 401(k), tuition, and FICA contributions. Used during reward cycle communications, the tool is built to drive transparency, boost engagement, and improve retention. It reflects my strengths in compensation communication, data storytelling, and employee experience design by simplifying complex data into something accessible and motivating.  
 
-12. 📈 Total Rewards New Hire Offer Tool 
+12. 📈 Total Rewards New Hire Offer Tool   
 A recruiter-friendly calculator that compares internal vs external offers with total rewards visualization. Supports recruiter and manager discussions with candidates. Highlights my stakeholder empathy and internal equity advocacy.  
 
 13. 📉 Total Rewards Severance Statement Tool  
@@ -68,10 +68,10 @@ This comprehensive matrix compares 15 long-term and 11 short-term incentive plan
 16. 🏗️ Enterprise Value-Based LTI Payout Modeling Tool  
 This incentive modeling tool calculates LTI payouts by linking enterprise value growth to individual award values using DCF and Gordon Growth methods. It includes multi-year revenue, EBITDA, and free cash flow projections, sensitivity testing across WACC and terminal growth rates, and payout calculations based on threshold, target, and max scenarios. Built for IPO prep, private equity modeling, and M&A scenarios, this tool showcases my ability to blend valuation modeling with equity design strategy and support value-sharing decisions at the highest levels.
 
-17. 📊 LTIP Financial Metric Comparison Table (Aligned to 3-Statement Financial Model)
+17. 📊 LTIP Financial Metric Comparison Table (Aligned to 3-Statement Financial Model)  
 This PowerPoint presentation provides a clear, side-by-side comparison of key financial metrics—EBITDA and Enterprise Value (EV) Growth—as performance measures for Long-Term Incentive Plans (LTIPs). It outlines each metric's definitions, pros, cons, and application, using detailed examples to illustrate their impact on LTIP payouts. The deck is designed to educate stakeholders on best practices for aligning executive incentives with value creation, supporting data-driven decision-making for private and public companies.
 
-18. 📉 3-Linked Financial Statement Model – EBITDA vs. EV Growth LTIP Calculations
+18. 📉 3-Linked Financial Statement Model – EBITDA vs. EV Growth LTIP Calculations  
 This Excel model integrates a dynamic 3-statement financial model (Income Statement, Balance Sheet, and Cash Flow Statement) with Long-Term Incentive Plan (LTIP) calculations using two performance metrics: EBITDA and Enterprise Value (EV) Growth. It provides a side-by-side comparison of how each metric impacts LTIP payouts, with detailed forecasting, payout interpolation, and scenario analysis. The model is built to support executive compensation design for private and public companies, ensuring data-driven decision-making and alignment with strategic business objectives.
 
 19. 🧮 KPIs & Incentive Payout Modeling Tool  
@@ -80,8 +80,8 @@ This Excel-based tool calculates short-term incentive (STI) payouts based on fin
 20. 🧠 Short- & Long-Term Incentive Funding & Payout Modeling Tool  
 This Excel tool is a versatile solution for modeling and analyzing short- and long-term incentive (STI/LTI) plans, including annual incentive plans (AIPs), and performance-based long term incentive awards. It features flexible performance metrics (revenue, EBITDA, KPIs), payout interpolation (threshold, target, max), grant schedules, proration, and scenario analysis for robust forecasting. The tool is designed to support both public and private equity structures, providing clear visualizations and reporting for stakeholder presentations. This showcases my expertise in incentive design, executive compensation strategy, and financial modeling aligned with business outcomes.
 
-21. 🛠️ Annual Incentive Plan (AIP) Overview
-A business-ready governance guide that details how STI (Annual Incentive Plan) funding is determined, how payouts are calculated, and how performance metrics drive both. It covers role-based target allocations, eligibility, proration, and payout timing, including governance clauses such as tax treatment, windfall/shortfall adjustments, termination (voluntary and involuntary), retirement, death, and disability provisions. It also addresses the impact of mergers, acquisitions, and change-in-control events on payouts. This document demonstrates my ability to design and govern complex incentive plans that balance financial accountability with equitable employee rewards, ensuring compliance and clear communication across HR, Legal, and Finance.
+21. 🛠️ Annual Incentive Goverance and Adminsitration  
+A board- and audit-ready governance framework that outlines how short-term incentives (STIs) are funded, calculated, and administered based on company performance. The document details role-based eligibility, target setting, performance thresholds, payout interpolation, and proration logic. It also incorporates governance elements such as clawback and overpayment recovery provisions, windfall and shortfall adjustments, ethics compliance, tax treatment, and employment-triggered forfeiture rules (e.g., voluntary resignation, cause-based termination, retirement, disability, and death). Additionally, it defines how mergers, acquisitions, and change-in-control events impact incentive eligibility. This plan demonstrates my ability to design and operationalize executive compensation programs that are financially sound, legally compliant, and clearly communicated across HR, Legal, and Finance stakeholders.
 
 22. 🧩 Incentive Accrual & Proration Automation Logic in Workday  
 A system logic deck mapping how to automate bonus proration and accrual calculations for mid-year hires, LOAs, exits, and salary changes in Workday. Built from scratch in the Workday Community Tenant. Demonstrates my ability to translate pay policy into system rules and calculated fields, streamlining bonus processing while ensuring compliance and accuracy across complex employee scenarios.
