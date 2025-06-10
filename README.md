@@ -19,7 +19,7 @@ This step-by-step technical guide outlines how to configure job profiles, career
 This deck is a comprehensive guide designed to help organizations develop, implement, and manage an effective salary structure. It covers key topics including salary range design, job evaluation, market benchmarking, and pay governance, ensuring that compensation decisions are both competitive and compliant. The deck also includes a live exercise section for hands-on learning, empowering HR leaders to build salary structures aligned with business goals while maintaining transparency and fairness.
 
 ---
-# 👩‍💻 Bencharking, Forecasting, & Budget Allocation
+# 👩‍💻Benchmarking, Forecasting, & Budget Allocation
 
 5. 📊 Year End Comp Activities- Market Analysis, Budget Allocation, Salary Range Review   
  📘This strategic overview deck outlines the full timeline and methodology behind annual compensation planning cycles—covering market benchmarking, budgeting, and pay range design. It explains how data from surveys, supply/demand shifts, stakeholder feedback, and cost of labor are synthesized into actionable insights. Designed to educate HRBPs and business leaders, the deck walks through how compensation teams align competitive pay positions with financial affordability, while supporting performance differentiation and internal equity. Highlights my ability to communicate comp strategy with clarity and build trust across cross-functional teams.
