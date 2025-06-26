@@ -89,25 +89,25 @@ A board- and audit-ready governance framework that outlines how short-term incen
 23. 📄 LTI Proposal Template   
 This deck provides a side-by-side comparison of two executive long-term incentive (LTI) designs—Performance Share Units (PSUs) and Stock Options. It includes market prevalence data, performance metric weighting, vesting structures, payout modeling, and a Black-Scholes valuation example. The proposal is structured to guide Compensation Committees and HR leaders through award strategy, financial impact, and alignment with company goals.
 
-25. 📄 RSU Educational Material for HRBPs   
+24. 📄 RSU Educational Material for HRBPs   
 This PDF serves as a comprehensive guide designed for HR Business Partners to explain Restricted Stock Units (RSUs) to employees. It covers the full lifecycle of RSUs—from grant to vesting and sale—including income and tax implications, blackout periods, and termination treatment. The content is structured to support consistent global equity education and reduce confusion during grant cycles or employee onboarding.
 ---
 
 # 🛠️ Project Management & HR System Implementation
 
-24. 🛡️ Oracle HRIS Implementation & Project Governance Strategy Deck  
+25. 🛡️ Oracle HRIS Implementation & Project Governance Strategy Deck  
 This executive-level playbook outlines the end-to-end governance and change management strategy for an Oracle HRIS and goal-setting module implementation. It includes stakeholder mapping, decision escalation protocols, project team allocations, risk mitigation, and change adoption frameworks. Built to guide HR transformation and system rollouts, the deck reflects my leadership in aligning cross-functional teams, managing project risk, and driving scalable, people-centric implementations.
 
-25. 📘 Oracle Performance Review & Calibration Guide  
+26. 📘 Oracle Performance Review & Calibration Guide  
 This training guide walks HR and managers through the end-to-end Oracle performance review process, including goal assessment, competency ratings, development planning, and calibration workflows. It includes system navigation instructions, score calculators, rating scales, and manager resources for aligning merit and bonus decisions to employee performance. Built to promote consistency and fairness, the guide reflects my ability to operationalize performance management systems while reinforcing pay-for-performance principles across an enterprise.
 
-26. 🛠️ Annual Compensation Planning in Workday – Admin Workflow Guide  
+27. 🛠️ Annual Compensation Planning in Workday – Admin Workflow Guide  
 This guide outlines the full backend process for running annual compensation cycles in Workday, including merit and incentive planning setup, EIB uploads, eligibility configurations, and audit logic. It walks comp administrators through every step—such as creating eligible earnings periods, troubleshooting report logic, and submitting final bonus approvals. Designed to reduce system errors and ensure operational accuracy, this tool reflects my strength in compensation operations, HRIS integration, and scalable comp cycle execution.
 
-27. 🧩 Incentive Accrual & Proration Automation Logic in Workday  
+28. 🧩 Incentive Accrual & Proration Automation Logic in Workday  
 A system logic deck mapping how to automate bonus proration and accrual calculations for mid-year hires, LOAs, exits, and salary changes in Workday. Built from scratch in the Workday Community Tenant. Demonstrates my ability to translate pay policy into system rules and calculated fields, streamlining bonus processing while ensuring compliance and accuracy across complex employee scenarios.
 
-28. 💻 VBA Stock Analysis Automation Tool  
+29. 💻 VBA Stock Analysis Automation Tool  
 This Excel VBA tool automates stock performance analysis across multiple years and tickers by calculating total daily trading volume and return rates. Originally created for a green energy investment case study, the workbook features clean, modular code, runtime efficiency tracking, and clear annotation. Demonstrates my ability to apply programming logic, automate repetitive analysis, and visualize data-driven decisions in Excel.
 
 ---
