@@ -30,7 +30,7 @@ This hands-on guide equips HRBPs with practical skills to interpret compensation
 7. 🔍 Using Central Tendency to Audit Survey Data Quality  
 This audit tool performs a cross-survey data validation using Z-scores, delta percentage variances, and IQR outlier flags to surface inconsistencies across multiple compensation vendors. It identifies misaligned benchmarks, leveling errors, and statistical anomalies—ensuring only clean, high-integrity data flows into pay structure updates and high-stakes comp decisions. This file demonstrates my technical rigor, Excel modeling capability, and commitment to governance standards in compensation analytics.  
 
-8. ⚖️Internal Equity Benchmarking- Excel Software Tool  
+8. ⚖️TDC Benchmarking Tool- Internal Equity Analysis
 It’s a self-contained compensation analytics tool that mimics the behavior of enterprise platforms like Workday Prism, Anaplan, or Tableau, but was built entirely in Excel using advanced logic, dynamic named ranges, and VBA-free Form Controls. Designed to enable real-time employee-level pay benchmarking, it features cascading dropdown filters for Job Family, Career Track, Location, and more — all dynamically linked to peer group logic. Users can input an employee name to instantly see detailed current vs. proposed compensation comparisons, percentile rankings across peer groups, and comp ratio insights, with all outputs updating live based on filter selections. With built-in data normalization, helper columns, and structured formulas, this tool delivers an enterprise-grade UX entirely within Excel — enabling flexible, interactive comp analysis with no code required.
 
 9. 💰 Market-Informed Salary Adjustment Proposal Tool  
