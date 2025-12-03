@@ -86,7 +86,7 @@ This Excel tool is a versatile solution for modeling and analyzing short- and lo
 22. 🛠️ Annual Incentive Goverance and Adminsitration  
 A board- and audit-ready governance framework that outlines how short-term incentives (STIs) are funded, calculated, and administered based on company performance. The document details role-based eligibility, target setting, performance thresholds, payout interpolation, and proration logic. It also incorporates governance elements such as clawback and overpayment recovery provisions, windfall and shortfall adjustments, ethics compliance, tax treatment, and employment-triggered forfeiture rules (e.g., voluntary resignation, cause-based termination, retirement, disability, and death). Additionally, it defines how mergers, acquisitions, and change-in-control events impact incentive eligibility. This plan demonstrates my ability to design and operationalize executive compensation programs that are financially sound, legally compliant, and clearly communicated across HR, Legal, and Finance stakeholders.
 
-23. 📄 LTI Proposal Template   
+23. 📄 ISO and PSU LTI Proposal Template   
 This deck provides a side-by-side comparison of two executive long-term incentive (LTI) designs—Performance Share Units (PSUs) and Stock Options. It includes market prevalence data, performance metric weighting, vesting structures, payout modeling, and a Black-Scholes valuation example. The proposal is structured to guide Compensation Committees and HR leaders through award strategy, financial impact, and alignment with company goals.
 
 24. 📄 RSU Educational Material for HRBPs   
@@ -110,6 +110,7 @@ A system logic deck mapping how to automate bonus proration and accrual calculat
 29. 💻 VBA Stock Analysis Automation Tool  
 This Excel VBA tool automates stock performance analysis across multiple years and tickers by calculating total daily trading volume and return rates. Originally created for a green energy investment case study, the workbook features clean, modular code, runtime efficiency tracking, and clear annotation. Demonstrates my ability to apply programming logic, automate repetitive analysis, and visualize data-driven decisions in Excel.
 
+Disclaimer: All models, tools, and frameworks in this portfolio are provided for educational and demonstration purposes only. They do not contain any proprietary, confidential, or employer-specific data. All inputs, outputs, and scenarios are hypothetical and designed to illustrate compensation, finance, and incentive design best practices.
 ---
 
 # 👤 About Karey Wong
