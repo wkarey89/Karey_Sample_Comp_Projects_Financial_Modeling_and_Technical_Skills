@@ -1,9 +1,5 @@
 # 💼 Compensation Program Portfolio  
-– Karey Wong  
-
-Welcome to my GitHub Portfolio, a curated collection of real-world compensation tools and templates I’ve designed to support enterprise-level pay strategy. These work samples reflect my ability to lead compensation planning across job architecture, benchmarking, governance, compliance, pay equity design, and pay-for-performance frameworks. From building global salary structures and incentive plans to automating annual comp cycles in HR systems like Workday, each resource demonstrates my strengths in financial modeling, stakeholder education, data analytics, and strategic communication. This portfolio is built for HR and Total Rewards leaders seeking scalable, compliant, and business-aligned compensation solutions.  
-
----
+– Karey Wong
 
 # 🧭 Job Architecture & Salary Structure Design  
 1. 🏗️ Global Job & Pay Architecture Framework  
@@ -112,11 +108,13 @@ This Excel VBA tool automates stock performance analysis across multiple years a
 
 ---
 
-#🗒️ Disclaimer: 
+# 🗒️ Disclaimer: 
 All models, tools, and frameworks in this portfolio are provided for educational and demonstration purposes only. They do not contain any proprietary, confidential, or employer-specific data. All inputs, outputs, and scenarios are hypothetical and designed to illustrate compensation, finance, and incentive design best practices.
 
 ---
 
 # 👤 About Karey Wong
 
-I’m a strategic compensation leader with 16+ years of experience designing and scaling compensation programs across diverse industries and global markets. My portfolio spans job architecture, market benchmarking, base pay strategy, incentive design (cash and equity), HR data governance, and annual focal/midyear comp cycles. I bring a rare blend of analytical depth, operational excellence, and business partnership—able to lead teams or independently drive high-impact projects from strategy to execution. I’ve coached HR teams, mentored peers, and partnered with C-suite leaders to build comp programs that are scalable, performance-aligned, and competitively positioned to attract and retain top talent.
+A global compensation leader with 16+ years of experience designing and scaling market-competitive compensation programs aligned to business strategy, performance outcomes, and regulatory compliance. Her expertise spans job architecture, pay architecture, incentive design (cash and equity), and pay equity regression modeling.
+
+Known for her strength in compensation program design, focal data governance, and HRIS change management, Karey brings a rare blend of financial rigor, operational excellence, and trusted HR partnership. She excels at leading high-impact initiatives from strategy through execution, whether driving enterprise-wide transformations or delivering critical projects independently.
