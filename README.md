@@ -110,7 +110,11 @@ A system logic deck mapping how to automate bonus proration and accrual calculat
 29. 💻 VBA Stock Analysis Automation Tool  
 This Excel VBA tool automates stock performance analysis across multiple years and tickers by calculating total daily trading volume and return rates. Originally created for a green energy investment case study, the workbook features clean, modular code, runtime efficiency tracking, and clear annotation. Demonstrates my ability to apply programming logic, automate repetitive analysis, and visualize data-driven decisions in Excel.
 
-# Disclaimer: All models, tools, and frameworks in this portfolio are provided for educational and demonstration purposes only. They do not contain any proprietary, confidential, or employer-specific data. All inputs, outputs, and scenarios are hypothetical and designed to illustrate compensation, finance, and incentive design best practices.
+---
+
+#🗒️ Disclaimer: 
+All models, tools, and frameworks in this portfolio are provided for educational and demonstration purposes only. They do not contain any proprietary, confidential, or employer-specific data. All inputs, outputs, and scenarios are hypothetical and designed to illustrate compensation, finance, and incentive design best practices.
+
 ---
 
 # 👤 About Karey Wong
