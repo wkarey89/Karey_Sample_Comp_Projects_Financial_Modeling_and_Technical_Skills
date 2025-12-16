@@ -94,8 +94,7 @@ This PDF serves as a comprehensive guide designed for HR Business Partners to ex
 25. 🛡️ Oracle HRIS Implementation & Project Governance Strategy Deck  
 This executive-level playbook outlines the end-to-end governance and change management strategy for an Oracle HRIS and goal-setting module implementation. It includes stakeholder mapping, decision escalation protocols, project team allocations, risk mitigation, and change adoption frameworks. Built to guide HR transformation and system rollouts, the deck reflects my leadership in aligning cross-functional teams, managing project risk, and driving scalable, people-centric implementations.
 
-26. 📘 Oracle Performance Review & Calibration Guide  
-This training guide walks HR and managers through the end-to-end Oracle performance review process, including goal assessment, competency ratings, development planning, and calibration workflows. It includes system navigation instructions, score calculators, rating scales, and manager resources for aligning merit and bonus decisions to employee performance. Built to promote consistency and fairness, the guide reflects my ability to operationalize performance management systems while reinforcing pay-for-performance principles across an enterprise.
+26. 📘 
 
 27. 🛠️ Annual Compensation Planning in Workday – Admin Workflow Guide  
 This guide outlines the full backend process for running annual compensation cycles in Workday, including merit and incentive planning setup, EIB uploads, eligibility configurations, and audit logic. It walks comp administrators through every step—such as creating eligible earnings periods, troubleshooting report logic, and submitting final bonus approvals. Designed to reduce system errors and ensure operational accuracy, this tool reflects my strength in compensation operations, HRIS integration, and scalable comp cycle execution.
